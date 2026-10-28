@@ -6,7 +6,7 @@
 
 ## <img src="./assets/about.gif" height="24" align="absmiddle" alt="" /> about me
 
-Hi! I'm Malu, an Information Systems student interested in programming, technology, and creative projects. ʚ(* ˘͈ ᵕ ˘͈)ɞ
+Hi! I'm Malu, a Computer and Information Systems student interested in programming, technology, and creative projects. ʚ(* ˘͈ ᵕ ˘͈)ɞ
 
 I use this space to share what I'm learning.
 
